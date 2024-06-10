@@ -1,0 +1,57 @@
+{
+    "categories": [
+        {"name": "Pizzerias"},
+        {"name": "Sushare"}
+    ],
+    "collections": [
+        {
+            "category": 1,
+            "name": "Pizza House",
+            "photos": [
+                "piz11.jpg"
+            ]
+        },
+        {
+            "category": 2,
+            "name": "Suchi Home",
+            "photos": [
+                "sus11.jpg"
+            ]
+        },
+        {
+            "category": 1,
+            "name": "The best pizza",
+            "photos": [
+                "piz12.jpg"
+            ]
+        },
+        {
+            "category": 1,
+            "name": "The biggest pizza",
+            "photos": [
+                "piz13.jpg"
+            ]
+        },
+        {
+            "category": 1,
+            "name": "Pizza cool",
+            "photos": [
+                "piz14.jpg"
+            ]
+        },
+        {
+            "category": 2,
+            "name": "Sushi Raven",
+            "photos": [
+                "sus12.jpg"
+            ]
+        },
+        {
+            "category": 2,
+            "name": "JAPAAAAAAN",
+            "photos": [
+                "sus13.jpg"
+            ]
+        }
+    ]
+}
